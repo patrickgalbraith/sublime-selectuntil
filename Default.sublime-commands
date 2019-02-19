@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Select Until",
+        "command": "select_until",
+        "args": { "extend": true }
+    },
+    {
+        "caption": "Select Until - Reverse",
+        "command": "reverse_select",
+        "args": { "extend": true }
+    }
+]
